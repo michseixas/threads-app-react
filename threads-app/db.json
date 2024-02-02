@@ -1,0 +1,68 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "user_uuid": "6fc5374e-9691-4a09-8401-2a55ca8a3d56",
+        "username": "Code with Mich",
+        "handle": "michseixas",
+        "bio":  "Multilingual Full Stack Web Developer | JavaScript | Typescript | ReactJS | NodeJS | MongoDB | Axios | CSS | Bootstrap | HTML5 | GIT | Jest",
+        "link": "https://popfilms.michseixas.com/",
+        "img": "https://i.imgur.com/m55lXOB.jpg",
+        "instragram_url": "https://www.instagram.com/michseixas",
+        "followers_url": [
+            {
+                "user_uuid": "285b50f4-0547-4d1a-9c15-4df65cda17a0",
+
+            },
+            {
+                "user_uuid": "7a5c2b94-003b-48b7-a0e7-fb9d55cfe1e1"
+
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "user_uuid": "285b50f4-0547-4d1a-9c15-4df65cda17a0",
+        "username": "Bochimu Reina Felina",
+        "handle": "bochimu",
+        "bio":  "Blanca como la nieve blanca",
+        "link": "https://www.bochimu.com/",
+        "img": "https://i.imgur.com/eA0auAY.jpg",
+        "instragram_url": "https://www.instagram.com/bochimu",
+        "followers_url": [
+            {
+                "user_uuid": "6fc5374e-9691-4a09-8401-2a55ca8a3d56"
+
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "user_uuid": "7a5c2b94-003b-48b7-a0e7-fb9d55cfe1e1",
+        "username": "Buzz Lightyear",
+        "handle": "Buzz",
+        "bio":  "To infinity and beyond",
+        "link": "https://www.buzz.com/",
+        "img": "https://i.imgur.com/2PZAid8.png",
+        "instragram_url": "https://www.instagram.com/bochimu",
+        "followers_url": [
+            {
+                "user_uuid": "6fc5374e-9691-4a09-8401-2a55ca8a3d56"
+
+            }
+        ]
+    }
+
+
+
+
+
+
+      { "id": "2", "title": "another title", "views": 200 }
+    ],
+    "threads": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ]
+  }
